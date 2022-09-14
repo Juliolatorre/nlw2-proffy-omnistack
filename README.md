@@ -72,9 +72,6 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone https://github.com/Juliolatorre/nlw2-proffy-omnistack
 
 # Acesse a pasta do projeto no terminal/cmd
-$ NLW2 
-$ cd Proffy
-
 # Vá para a pasta server
 $ cd server
 
@@ -95,10 +92,7 @@ $ npm start
 $ git clone https://github.com/Juliolatorre/nlw2-proffy-omnistack
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ NLW2 
-$ cd Proffy
-
-$ # Vá para a pasta da aplicação Front End
+# Vá para a pasta da aplicação Front End
 $ cd web
 
 # Instale as dependências
