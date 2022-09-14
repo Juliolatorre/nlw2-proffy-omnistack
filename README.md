@@ -119,7 +119,7 @@ Para aprender React, veja a sua documentação em [Documentação do React](http
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [https://github.com/Juliolatorre/nlw2-proffy-omnistack/blob/master/LICENSE](LICENSE.md) para mais detalhes.
+Este projeto esta sobe a licença [MIT](./LICENSE).
 
 ---
 
